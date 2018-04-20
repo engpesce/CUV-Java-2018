@@ -15,15 +15,15 @@ public class ProgramaPrincipal
     
     float promedioDePrimos = sumaDePrimos / 4.0F;
     
-    System.out.println("Operaci�n 1:");
+    System.out.println("Operación 1:");
     System.out.println(sumaDePrimos);
     System.out.println("-----------------------------------------------");
     
-    System.out.println("Operaci�n 2:");
+    System.out.println("Operación 2:");
     System.out.println(multiplicacionDePrimos);
     System.out.println("-----------------------------------------------");
     
-    System.out.println("Operaci�n 3:");
+    System.out.println("Operación 3:");
     System.out.println(promedioDePrimos);
     System.out.println("-----------------------------------------------");
   }
